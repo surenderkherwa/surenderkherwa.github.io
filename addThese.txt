@@ -1,0 +1,6 @@
+https://hadoopi.wordpress.com/2013/05/27/understand-recordreader-inputsplit/
+https://stackoverflow.com/questions/9258134/about-hadoop-hdfs-file-splitting
+https://kerflyn.wordpress.com/2012/07/09/java-8-now-you-have-mixins/
+Sort existing map over values: https://stackoverflow.com/questions/109383/sort-a-mapkey-value-by-values-java
+
+Find anything inside tags: <port>[^<>]+</port>
